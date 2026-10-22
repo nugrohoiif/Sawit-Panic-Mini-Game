@@ -260,8 +260,6 @@ Automated browser testing is used during development. Additional real-device tes
 
 **nugrohoiif**
 
-*Indie Game Creator & Developer*
-
 GitHub: [github.com/nugrohoiif](https://github.com/nugrohoiif)
 
 SAWIT PANIC! is an independent game development project exploring mobile-first browser gameplay, arcade mechanics, and environmentally themed decision-making.
