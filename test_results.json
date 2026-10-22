@@ -1,0 +1,157 @@
+[
+  {
+    "viewport": "360x640",
+    "creatorBounds": {
+      "x": 92,
+      "y": 610.4896240234375,
+      "width": 176,
+      "height": 26
+    },
+    "stageBounds": {
+      "x": 0,
+      "y": 0,
+      "width": 360,
+      "height": 640
+    },
+    "overlaps": {
+      "menuPlay": 0,
+      "menuTutorial": 0.0,
+      "menuBoard": 0.0,
+      "menuSettings": 0.0,
+      "menuRecordBadge": 0.0,
+      "menuSound": 0.0,
+      "menuSettingsTop": 0
+    },
+    "errors": [],
+    "afterTutorial": {
+      "modals": [
+        "modal"
+      ],
+      "menuHidden": false
+    }
+  },
+  {
+    "viewport": "375x667",
+    "creatorBounds": {
+      "x": 95.83332824707031,
+      "y": 636.0933227539062,
+      "width": 183.3333282470703,
+      "height": 27.08331298828125
+    },
+    "stageBounds": {
+      "x": 0,
+      "y": 0.16668701171875,
+      "width": 375,
+      "height": 666.6666259765625
+    },
+    "overlaps": {
+      "menuPlay": 0.0,
+      "menuTutorial": 0.0,
+      "menuBoard": 0.0,
+      "menuSettings": 0.0,
+      "menuRecordBadge": 0.0,
+      "menuSound": 0.0,
+      "menuSettingsTop": 0
+    },
+    "errors": [],
+    "afterTutorial": {
+      "modals": [
+        "modal"
+      ],
+      "menuHidden": false
+    }
+  },
+  {
+    "viewport": "390x844",
+    "creatorBounds": {
+      "x": 99.66666412353516,
+      "y": 736.697021484375,
+      "width": 190.6666488647461,
+      "height": 28.166748046875
+    },
+    "stageBounds": {
+      "x": 0,
+      "y": 75.33334350585938,
+      "width": 390,
+      "height": 693.3332824707031
+    },
+    "overlaps": {
+      "menuPlay": 0.0,
+      "menuTutorial": 0.0,
+      "menuBoard": 0.0,
+      "menuSettings": 0.0,
+      "menuRecordBadge": 0.0,
+      "menuSound": 0.0,
+      "menuSettingsTop": 0
+    },
+    "errors": [],
+    "afterTutorial": {
+      "modals": [
+        "modal"
+      ],
+      "menuHidden": false
+    }
+  },
+  {
+    "viewport": "412x915",
+    "creatorBounds": {
+      "x": 105.28888702392578,
+      "y": 789.94921875,
+      "width": 201.42220306396484,
+      "height": 29.7554931640625
+    },
+    "stageBounds": {
+      "x": 0,
+      "y": 91.27780151367188,
+      "width": 412,
+      "height": 732.4443664550781
+    },
+    "overlaps": {
+      "menuPlay": 0.0,
+      "menuTutorial": 0.0,
+      "menuBoard": 0.0,
+      "menuSettings": 0.0,
+      "menuRecordBadge": 0.0,
+      "menuSound": 0.0,
+      "menuSettingsTop": 0
+    },
+    "errors": [],
+    "afterTutorial": {
+      "modals": [
+        "modal"
+      ],
+      "menuHidden": false
+    }
+  },
+  {
+    "viewport": "540x960",
+    "creatorBounds": {
+      "x": 138,
+      "y": 915.734375,
+      "width": 264,
+      "height": 39
+    },
+    "stageBounds": {
+      "x": 0,
+      "y": 0,
+      "width": 540,
+      "height": 960
+    },
+    "overlaps": {
+      "menuPlay": 0,
+      "menuTutorial": 0.0,
+      "menuBoard": 0.0,
+      "menuSettings": 0.0,
+      "menuRecordBadge": 0.0,
+      "menuSound": 0.0,
+      "menuSettingsTop": 0
+    },
+    "errors": [],
+    "afterTutorial": {
+      "modals": [
+        "modal"
+      ],
+      "menuHidden": false
+    }
+  }
+]
